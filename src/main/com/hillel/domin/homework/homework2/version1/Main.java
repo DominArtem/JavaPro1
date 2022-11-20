@@ -25,5 +25,6 @@ public class Main {
 
         System.out.println("Number of participants: " + Animal.getCounterAnimal() + "\n" + "Number of dogs: " + Dog.getCount() + "\n" + "Number of cats: " + Cat.getCount());
 
+
     }
 }
