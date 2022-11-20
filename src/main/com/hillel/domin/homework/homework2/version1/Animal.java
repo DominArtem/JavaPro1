@@ -4,7 +4,7 @@ public abstract class Animal {
 
     private static int counter;
 
-    public static int getCounterAnimal() {
+        public static int getCounterAnimal() {
         return counter;
     }
 

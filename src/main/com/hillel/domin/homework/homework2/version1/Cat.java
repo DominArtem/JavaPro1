@@ -8,6 +8,7 @@ public class Cat extends Animal {
     private final int obstacleRunCat = 200;
     private static int count;
 
+
     public Cat(String name) {
         this.name = name;
         count++;
